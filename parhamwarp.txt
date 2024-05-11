@@ -1,0 +1,5 @@
+//profile-title: 🔥Parham Warp+ ip Clean🔥
+//profile-update-interval: 12
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+warp://7ko9PB10-Q61oSA28-W98agI43@162.159.192.10:939/?ifp=5-10
+warp://P07WH23p-267t5UWN-5S32X4em@188.114.96.212:988/?ifp=5-10
